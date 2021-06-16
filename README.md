@@ -3,7 +3,7 @@ Completed Widhya Winternship in Machine Learning domain from January 21 to Feb 2
 
 **Task 1- Covid 19 Analysis(Quantitative Modelling)**
 
-**Task 2- Flight Delay Prediction**
+**Task 2- Predict the survival of a person on Titanic Ship**
 
 **Task 3- Instagram Post Reach Prediction**
 
